@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there!
+
+I am Bryce C.! A Liberty University Computer Science student seeking a cognate in cyber security! I am a member of Liberty University's Collegiate Penetration Testing Competition Team. I use this platform primarily to collaborate on my team's repositories, with the occassional side project here and there. You can reach me through my LinkedIn which should be linked to my profile. I hope you have a great day :) 
 
 <!--
 **CaptainGhost945/CaptainGhost945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
